@@ -28,29 +28,13 @@ Y luego tenemos la relación entre decil económico y los distintos aspectos que
 
 ![output2.png](output2.png)
 
+De esto observamos que los ingresos familiares per capita son un importante predictor del rendimiento de los alumnos en la PAES, e incluso observamos que entre los alumnos en hogares del decil con mayores ingreso (y en menor menor medida del segundo decil de mayores ingresos) también se genera una ventaja relevante en cuanto a las notas que determinan el NEM.
 
+Luego podemos observar este mapa de calor que grafica la correlación entre el rendimiento de los alumnos en la PAES y los distintos componentes del IDC:
 
-###### Header 6
+![output3](output3.png)
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
+Haciendo uso del coeficiente de determinación ($corr^2$)
 
 ### Definition lists can be used with HTML syntax.
 
