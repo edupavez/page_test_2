@@ -26,7 +26,7 @@ Podemos ver los siguientes gráficos que obtuvimos de la data, que muestran la r
 
 Y luego tenemos la relación entre decil económico y los distintos aspectos que afectan el ingreso a la educación superior: NEM, Promedio PAES de matemática y lenguaje, y promedio de todas las pruebas rendidas.
 
--Gráfico-
+![output2.png](output2.png)
 
 
 
