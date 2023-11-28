@@ -1,5 +1,6 @@
 # "Brecha Educativa en Chile: Un Análisis de las Diferencias Geográficas y Socioeconómicas en la Calidad de la Educación"
 
+
 Hemos hecho un análisis sobre algunos factores que pueden afectar el proceso de admisión a la educación superior en Chile,
 específicamente en el periodo de admisión 2023, mirando la relación entre ingresos familiares per capita de los estudiantes,
 el índice de desarrollo comunal de las comunas donde viven y estudian, y los resultados individuales  y de los mejores 100 colegios
