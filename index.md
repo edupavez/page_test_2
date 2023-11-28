@@ -5,7 +5,7 @@ específicamente en el periodo de admisión 2023, mirando la relación entre ing
 el índice de desarrollo comunal de las comunas donde viven y estudian, y los resultados individuales  y de los mejores 100 colegios
 en la PAES.
 
-Para mayores detalles visite nuestro repositorio en Github: "www.cl"
+Para mayores detalles visite nuestro repositorio en Github: [repositorio](https://github.com/crist0balsoto/Proyecto_Ciencia_de_datos)
 
 ## Objetivos
 
