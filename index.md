@@ -18,6 +18,7 @@ Nuestro objetivos es responder a las siguientes preguntas:
 
 ## Resultados
 
+Hemos hecho uso principalmente de resultados que disponibiliza el DEMRE sobre el proceso 2023, del índice de desarrollo comunal de la Universidad autónoma, y del ranking de los 100 mejores colegios por rendimiento en la PAES.
 
 
 ###### Header 6
