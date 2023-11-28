@@ -5,6 +5,8 @@ específicamente en el periodo de admisión 2023, mirando la relación entre ing
 el índice de desarrollo comunal de las comunas donde viven y estudian, y los resultados individuales  y de los mejores 100 colegios
 en la PAES.
 
+Para mayores detalles visite nuestro repositorio en Github: "www.cl"
+
 ## Objetivos
 
 Nuestro objetivos es responder a las siguientes preguntas:
