@@ -30,9 +30,9 @@ Y luego tenemos la relación entre decil económico y los distintos aspectos que
 
 De esto observamos que los ingresos familiares per capita son un importante predictor del rendimiento de los alumnos en la PAES, e incluso observamos que entre los alumnos en hogares del decil con mayores ingreso (y en menor menor medida del segundo decil de mayores ingresos) también se genera una ventaja relevante en cuanto a las notas que determinan el NEM.
 
-Luego podemos observar este mapa de calor que grafica la correlación entre el rendimiento de los alumnos en la PAES y los distintos componentes del IDC:
+Luego podemos observar este mapa de calor que grafica la correlación entre el promedio por comuna de los 100 mejores colegios en la PAES y los distintos componentes del IDC de las comunas donde se ubican dichos colegios:
 
 ![output3](output3.png)
 
-Haciendo uso del coeficiente de determinación ($corr^2$)
+Haciendo uso del coeficiente de determinación ($corr^2$) vemos que la variación entre las comunas 
 
