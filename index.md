@@ -20,6 +20,15 @@ Nuestro objetivos es responder a las siguientes preguntas:
 
 Hemos hecho uso principalmente de resultados que disponibiliza el DEMRE sobre el proceso 2023, del índice de desarrollo comunal de la Universidad autónoma, y del ranking de los 100 mejores colegios por rendimiento en la PAES.
 
+Podemos ver los siguientes gráficos que obtuvimos de la data, que muestran la relación entre los mejores colegios y su IDC:
+
+-Gráfico-
+
+Y luego tenemos la relación entre decil económico y los distintos aspectos que afectan el ingreso a la educación superior: NEM, Promedio PAES de matemática y lenguaje, y promedio de todas las pruebas rendidas.
+
+-Gráfico-
+
+
 
 ###### Header 6
 
