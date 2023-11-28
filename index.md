@@ -23,23 +23,23 @@ Hemos hecho uso principalmente de resultados que disponibiliza el DEMRE sobre el
 
 Podemos ver los siguientes gráficos que obtuvimos de la data, que muestran la relación entre los mejores colegios y su IDC:
 
-![output.png](output.png)
+![output.png](images/output.png)
 
 Y luego tenemos la relación entre decil económico y los distintos aspectos que afectan el ingreso a la educación superior: NEM, Promedio PAES de matemática y lenguaje, y promedio de todas las pruebas rendidas.
 
-![output2.png](output2.png)
+![output2.png](images/output2.png)
 
 De esto observamos que los ingresos familiares per capita son un importante predictor del rendimiento de los alumnos en la PAES, e incluso observamos que entre los alumnos en hogares del decil con mayores ingreso (y en menor menor medida del segundo decil de mayores ingresos) también se genera una ventaja relevante en cuanto a las notas que determinan el NEM.
 
 Luego podemos observar este mapa de calor que grafica la correlación entre el promedio por comuna de los 100 mejores colegios en la PAES y los distintos componentes del IDC de las comunas donde se ubican dichos colegios:
 
-![output3](output3.png)
+![output3](images/output3.png)
 
 Haciendo uso del coeficiente de determinación ($corr^2$) vemos que la variación entre las comunas en este promedio se explica en un 17,64% por el IDC, y mirando los componentes específicos tenemos un 17,64% por Bienestar, 10,89% por Economía y 34,81% Educación. Es importante señalar aquí, que el componente Educación, según se explica en la metodología de la UA, se incluyen los resultados de la PSU, Simces y matrículas del 2018, por tanto creemos que es más relevante destacar los otros dos componentes, que aunque tengan menor correlación, esta no es despreciable.
 
 Luego nos enfocamos en hallar posibles outliers, para lo cual graficamos la relación IDC-PAES para comunas de Santiago, y luego para regiones:
 
-![output4](output4.png)
+![output4](images/output4.png)
 
 En cuanto a Santiago, vemos como outliers a Lo Barnechea y La Reina, cuyos IDC son cercanos al promedio de las comunas seleccionadas, pero tienen los mejores puntajes promedio. Esto se puede deber a la desigualdad interna en dichas comuna que son bastantes grandes, teniendo dentro algunos de los colegios más caros del país.
 
@@ -47,13 +47,13 @@ Sobre las regiones, no vemos una correlación destacable, y por tanto no identif
 
 También pasamos a analizar la cercanía a Santiago como posible factor:
 
-![output5](output5.png)
+![output5](images/output5.png)
 
 Internamente, dentro del sur y del norte no vemos mayores diferencias entre regiones, por tanto descartamos como predictor la cercanía a la capital.
 
 Por último, reforzamos la relevancia de las diferencias socioeconómicas, sobre lo cual vemos que independientemente de la comuna del alumno, el ingreso familiar per capita sigue siendo muy relevante:
 
-![output6](output6.png)
+![output6](images/output6.png)
 
 ## Consideraciones importantes
 
