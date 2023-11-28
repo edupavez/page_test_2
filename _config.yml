@@ -1,1 +1,3 @@
 remote_theme: jasonlong/cayman-theme
+sass:
+  sass_dir: _sass
