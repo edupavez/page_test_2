@@ -5,11 +5,14 @@ específicamente en el periodo de admisión 2023, mirando la relación entre ing
 el índice de desarrollo comunal de las comunas donde viven y estudian, y los resultados individuales  y de los mejores 100 colegios
 en la PAES.
 
-## Header 2
+## Objetivos
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Nuestro objetivos es responder a las siguientes preguntas:
+1. ¿Cómo la brecha socioeconómica afecta a la educación en Chile?
+2. ¿Hay una fuerte correlación entre índice de desarrollo comunal y puntaje PAES?
+3. En base a lo anterior, ¿qué outliers podemos encontrar? ¿Cambia según la región?
+4. ¿Influye la proximidad a la Región metropolitana?
+5. ¿Qué otros factores pueden afectar el proceso de admisión?
 
 ### Header 3
 
