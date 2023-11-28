@@ -1,18 +1,12 @@
 ---
 layout: default
 ---
+# "Brecha Educativa en Chile: Un Análisis de las Diferencias Geográficas y Socioeconómicas en la Calidad de la Educación"
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Hemos hecho un análisis sobre algunos factores que pueden afectar el proceso de admisión a la educación superior en Chile,
+específicamente en el periodo de admisión 2023, mirando la relación entre ingresos familiares per capita de los estudiantes,
+el índice de desarrollo comunal de las comunas donde viven y estudian, y los resultados individuales  y de los mejores 100 colegios
+en la PAES.
 
 ## Header 2
 
