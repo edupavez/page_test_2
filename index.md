@@ -34,5 +34,7 @@ Luego podemos observar este mapa de calor que grafica la correlación entre el p
 
 ![output3](output3.png)
 
-Haciendo uso del coeficiente de determinación ($corr^2$) vemos que la variación entre las comunas en este promedio se explica en un 17,64% por el IDC, y mirando los componentes específicos tenemos un 17,64% por Bienestar, 10,89% por Economía y 34,81% Educación. Es importante señalar aquí, que 
+Haciendo uso del coeficiente de determinación ($corr^2$) vemos que la variación entre las comunas en este promedio se explica en un 17,64% por el IDC, y mirando los componentes específicos tenemos un 17,64% por Bienestar, 10,89% por Economía y 34,81% Educación. Es importante señalar aquí, que el componente Educación, según se explica en la metodología de la UA, se incluyen los resultados de la PSU, Simces y matrículas del 2018, por tanto creemos que es más relevante destacar los otros dos componentes, que aunque tengan menor correlación, esta no es despreciable.
+
+Luego nos enfocamos en hallar posibles outliers
 
