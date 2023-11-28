@@ -1,6 +1,3 @@
----
-layout: default
----
 # "Brecha Educativa en Chile: Un Análisis de las Diferencias Geográficas y Socioeconómicas en la Calidad de la Educación"
 
 Hemos hecho un análisis sobre algunos factores que pueden afectar el proceso de admisión a la educación superior en Chile,
